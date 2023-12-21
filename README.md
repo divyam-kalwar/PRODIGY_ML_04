@@ -3,7 +3,7 @@
 This repository contains a Python script for building and training a Convolutional Neural Network (CNN) for hand gesture recognition using the Keras library. The CNN is trained on the LeapGestRecog dataset.
 
 ## Dataset
-The dataset is located in the "leapGestRecog" directory. It contains hand gesture images divided into various categories such as palm, fist, thumb, etc.
+The dataset is located [here](https://www.kaggle.com/datasets/gti-upm/leapgestrecog/code?datasetId=39466&sortBy=voteCount). It contains hand gesture images divided into various categories such as palm, fist, thumb, etc.
 
 ## Requirements
 - Python 3.x
@@ -29,7 +29,7 @@ The trained model is evaluated on the test set, and the accuracy is displayed.
 
 ## Files
 - `Hand Gesture.ipynb`: Jupyter notebook containing the code for data preprocessing, model creation, training, and evaluation.
-- `Hand Gesture.h5`: Saved model weights after training.
+- Save model weights after training.
 
 Feel free to customize the code and experiment with different hyperparameters to improve performance.
 
